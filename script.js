@@ -65,7 +65,7 @@ gsap.from(".page3-main-left",{
     trigger:".page3",
     start:"top 40%",
     end:"top 35%",
-    markers:true,
+    // markers:true,
     scrub:2,
     once:true,
   }
